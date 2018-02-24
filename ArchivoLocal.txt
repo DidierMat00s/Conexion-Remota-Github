@@ -1,0 +1,2 @@
+Se creo un archivo local para que se sincronize en github que tambien hay un archivo nuevo ahi y luego hacer git merge de ambos.
+Tomando en cuenta que primero se debe bajar los cambios de Github en origin/master y luego fusionar esa rama con la rama local de master.
