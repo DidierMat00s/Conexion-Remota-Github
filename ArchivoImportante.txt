@@ -1,0 +1,2 @@
+Este es un archivo importante de prueba que se creo desde Github para que desde mi computadora pueda realizar la sincronización de
+los cambios a la rama Origin/Master, para luego fusionar con los cambios creados localmente (master).
