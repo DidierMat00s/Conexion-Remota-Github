@@ -1,1 +1,1 @@
-La documentacion ha sido actualizada
+La documentacion ha sido actualizada y se han añadido mas cosas.
